@@ -40,6 +40,6 @@
    <c:ticket-systems>
       <c:ticket-system id="com.github.io7m.jpuddle"
                        default="true"
-                       url="https://github.com/io7m/jpuddle/issues"/>
+                       url="https://www.github.com/io7m-com/jpuddle/issues"/>
    </c:ticket-systems>
 </c:changelog>

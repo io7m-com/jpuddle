@@ -24,6 +24,7 @@
   <modules>
     <module>com.io7m.jpuddle.core</module>
     <module>com.io7m.jpuddle.documentation</module>
+    <module>com.io7m.jpuddle.tests</module>
   </modules>
 
   <properties>
@@ -39,9 +40,9 @@
   </licenses>
 
   <scm>
-    <url>https://github.com/io7m/jpuddle</url>
-    <connection>scm:git:https://github.com/io7m/jpuddle</connection>
-    <developerConnection>scm:git:https://github.com/io7m/jpuddle</developerConnection>
+    <url>https://www.github.com/io7m-com/jpuddle</url>
+    <connection>scm:git:https://www.github.com/io7m-com/jpuddle</connection>
+    <developerConnection>scm:git:https://www.github.com/io7m-com/jpuddle</developerConnection>
   </scm>
 
   <developers>
@@ -54,7 +55,7 @@
   </developers>
 
   <issueManagement>
-    <url>https://github.com/io7m/jpuddle/issues</url>
+    <url>https://www.github.com/io7m-com/jpuddle/issues</url>
     <system>GitHub Issues</system>
   </issueManagement>
 
@@ -72,7 +73,7 @@
 
   <ciManagement>
     <system>GitHub Actions</system>
-    <url>https://github.com/jpuddle/actions</url>
+    <url>https://www.github.com/io7m-com/jpuddle/actions</url>
   </ciManagement>
 
   <prerequisites>
