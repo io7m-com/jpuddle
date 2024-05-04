@@ -12,7 +12,7 @@ Java classes to pool heavyweight objects.
 
 ## Motivation
 
-Object pooling is a programming technique where instead of creating new objects
+Object pooling is a programming technique where, instead of creating new objects
 to service requests, a small pool of objects is created and the objects within
 the pool are reused repeatedly to service requests instead. This was
 traditionally used by Java programs as a performance optimization in an
