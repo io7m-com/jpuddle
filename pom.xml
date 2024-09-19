@@ -93,7 +93,7 @@
       <dependency>
         <groupId>com.io7m.junsigned</groupId>
         <artifactId>com.io7m.junsigned.ranges</artifactId>
-        <version>3.0.0</version>
+        <version>4.0.0</version>
       </dependency>
       <dependency>
         <groupId>com.io7m.jaffirm</groupId>
